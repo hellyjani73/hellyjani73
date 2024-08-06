@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Helly Jani</h1>
 <h3 align="center">Welcome to my GitHub Profile! A passionate frontend developer from India</h3>
-<img align = "center"  width =1000  alt = "coding image" src= "banner.jpg">
+<img align = "center"  width =1000  alt = "coding image" src= "https://github.com/hellyjani73/hellyjani73/blob/main/banner.jpeg">
   </p>
 
 - 🌱 I’m currently learning **Next.js,Blockchain**
