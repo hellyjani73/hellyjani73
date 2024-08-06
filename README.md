@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js,Blockchain**
 
-- 👨‍💻 All of my projects are available at [https://vercel.com/helly-janis-projects/hellyjani/VKEGtUuyfehEubKJyDLuGcwemavP](https://vercel.com/helly-janis-projects/hellyjani/VKEGtUuyfehEubKJyDLuGcwemavP)
+- 👨‍💻 All of my projects are available at https://vercel.com/helly-janis-projects
 
 - 💬 Ask me about **JavaScript,React**
 
